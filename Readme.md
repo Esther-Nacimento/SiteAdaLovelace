@@ -36,9 +36,6 @@ Usei a tag `<h1>` para marcar o título principal do site:
 
 ---
 
-## Resultado 
-
-![Captura de Tela do Site](./screenshot.png)
 
 
 ---
