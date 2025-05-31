@@ -1,37 +1,71 @@
 # 🌐 Meu Primeiro Site com HTML - PrograMaria
 
-Este é o primeiro exercício do meu curso iniciante de Front-End. A proposta era montar um site simples com base em um texto fornecido, utilizando apenas HTML. Nesse processo, aprendi os primeiros conceitos sobre **estrutura de uma página web** e **uso de tags básicas**.
+Este é o primeiro exercício do meu curso Front-End:Minha primeira página web com a [PrograMaria]. A proposta era construir um site simples com base em um texto fornecido, utilizando apenas HTML. o texto conta a história de uma mulher inspiradora da tecnologia: **Ada Lovelace**.
+
+Ao longo do processo, dei meus primeiros passos com a linguagem HTML e aprendi muito sobre a estrutura e a semântica de uma página web.
 
 ---
 
-## 📝 Texto utilizado
+## 👩‍💻 Sobre o site
 
-> **PrograMaria**  
->  
-> O futuro está sendo escrito em linhas de código e pessoas diversas precisam participar dessa construção. Mulheres e pessoas fora do espectro cisheteronormativo, apesar de serem usuárias de redes sociais e dispositivos digitais, não participam da produção da tecnologia.  
->  
-> Precisamos falar sobre os desafios da diversidade na área e o que fazer para aumentar sua participação.
+Criei uma página estática em HTML sobre Ada Lovelace, considerada a primeira programadora da história. O site apresenta sua trajetória dividida em seções como **infância**, **juventude** e **vida adulta**, com imagens ilustrativas e navegação para conhecer outras mulheres importantes na tecnologia.
 
 ---
 
 ## 🚀 O que aprendi
 
-Durante o exercício, aprendi os seguintes conceitos:
+Durante esse exercício, explorei e compreendi os seguintes conceitos:
 
-### 1. Estrutura Básica do HTML
-Comecei com a estrutura básica de um arquivo `.html` para poder visualizar o conteúdo no navegador.
+### ✅ Estrutura básica de um documento HTML
 
-### 2. A tag `<h1>` para o título e a tag `<p>` para separar os parágrafos
+- `<!DOCTYPE HTML>` para definir o tipo de documento
+- Tags principais: `<html>`, `<head>` e `<body>`
 
-Estrutura do site:
+### ✅ Títulos e parágrafos
 
-```html
+- Uso das tags `<h1>`, `<h2>`, `<h3>` para organizar o conteúdo em níveis de importância
+- Tag `<p>` para estruturar os parágrafos do texto
 
-<h1>PrograMaria</h1>
+### ✅ Imagens com contexto
 
-<p>O futuro está sendo escrito em linhas de código e pessoas diversas precisam participar dessa construção. Mulheres e pessoas fora do espectro cisheteronormativo, apesar de serem usuárias de redes sociais e dispositivos digitais, não participam da produção da tecnologia.</p>
+- Tag `<img>` com os atributos `src` e `alt`, aprendendo a importância da acessibilidade e descrição de imagens
 
-<p>Precisamos falar sobre os desafios da diversidade na área e o que fazer para aumentar sua participação.</p>
+### ✅ Listas e navegação
+
+- Criação de listas com `<ul>` e `<li>`
+- Inclusão de links externos com a tag `<a>` e o atributo `target="_blank"` para abrir em nova aba
+
+### ✅ Organização do conteúdo
+
+- Uso da semântica do HTML para estruturar o conteúdo de forma clara e significativa
+
+---
+
+## 🌟 Resultado
+
+A página apresenta de forma visual e acessível a história de Ada Lovelace e incentiva o usuário a conhecer outras mulheres que marcaram a história da computação.
+
+📸 Algumas imagens utilizadas:
+- Pintura de Ada Lovelace
+- Ada criança com um desenho
+- Ada ao lado de uma tabela com algoritmos
+
+🔗 Links para saber mais:
+- Grace Hopper
+- Dorothy Vaughan
+- Margaret Hamilton
+- Katherine Johnson
+
+---
+
+## ✨ Próximos passos
+
+Nos próximos módulos do curso
+
+- Aprender CSS para estilizar minha página
 
 
+---
+
+  
 
