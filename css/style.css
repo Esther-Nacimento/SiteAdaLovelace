@@ -1,0 +1,29 @@
+/*body é o corpo do site, onde conseguimos ver o contúdo do site*/
+body{ 
+    /*text-align -> Alinhamento do texto:  center -> alinhar no centro;*/
+    text-align: center;
+    /*font-family é uma propriedade, usamos ela para estilizar */
+    font-family: Open Sans, sans-serif;/* Caso a pessoa tenha open sans, carrega Open sans e mostra meu site em open sans. Caso a pessoa não tenha, mostre qualquer fonte "sans-serif*/
+    /*Muda o plano de fundo*/
+    background-color:#8A71C9; 
+    /*Muda a cor do texto*/
+    color:#FFFFFF;
+} 
+
+/*Estilizando os elementos de cabeçalho*/
+h2{
+    color:#2A0074;
+}
+
+/*classificando as classes*/
+.titulo-verde{
+    color:#04ff9f;
+}
+ 
+.titulo-vermelho{
+    color:#FF9E9E;
+}
+
+.titulo-amarelo{
+    color:#ffe36d;
+}
