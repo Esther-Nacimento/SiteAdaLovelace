@@ -1,29 +1,98 @@
-/*body é o corpo do site, onde conseguimos ver o contúdo do site*/
-body{ 
-    /*text-align -> Alinhamento do texto:  center -> alinhar no centro;*/
-    text-align: center;
-    /*font-family é uma propriedade, usamos ela para estilizar */
-    font-family: Open Sans, sans-serif;/* Caso a pessoa tenha open sans, carrega Open sans e mostra meu site em open sans. Caso a pessoa não tenha, mostre qualquer fonte "sans-serif*/
-    /*Muda o plano de fundo*/
-    background-color:#8A71C9; 
-    /*Muda a cor do texto*/
-    color:#FFFFFF;
-} 
+    body{
+        text-align: center;
+        font-family: Open Sans, sans-serif;
+        background-color: #8a71c9;
+         color: #ffffff;
+         margin: 0px 0px 30px 0px;
+    }
+     
+    h1{
+        font-size: 60px;
+        font-weight: 300;
+        color: color: #ffffff;
+    }
 
-/*Estilizando os elementos de cabeçalho*/
-h2{
-    color:#2A0074;
-}
+    /* Subtitulo*/
+    h2{
+        font-size: 40px;
+        color: #2a0074;
+    }
 
-/*classificando as classes*/
-.titulo-verde{
-    color:#04ff9f;
-}
- 
-.titulo-vermelho{
-    color:#FF9E9E;
-}
+    /*Classificando as classes*/
+    .titulo-verde{
+        color: #04ff9f;
+    }
 
-.titulo-amarelo{
-    color:#ffe36d;
-}
+    .titulo-vermelho{
+        color:#FF9E9E;
+    }
+
+    .titulo-amarelo{
+        color: #ffe36d;
+    }
+
+    section{
+        /*background-color:yellow; - marcação para visualizar a section*/
+        width: 60%;
+        margin: 0 auto;
+        /*border: 1px solid red;*/ 
+    }
+
+    section section{
+        width: 100%;
+    }
+
+    h3{
+        font-size: 22px; 
+        font-style: italic;
+        
+    }
+
+    p{
+        font-size: 20px;
+        line-height: 1,5;
+       
+    }
+
+    img{
+        width: 100%;
+        
+    }
+
+    ul{
+        list-style-type: none;
+        line-height: 2;
+        padding-left:0;
+    }
+    
+    a{
+        text-decoration: none;
+        color: #99ffff;
+        font-weight: 700;
+    }
+
+    .principal{
+         background: #ff6cb5;
+         height: 40px;
+         max-width: 60%;
+         margin: 0 auto;
+    }
+
+    .principal a{
+        color: #fff;
+        text-decoration: underline;
+        font-weight: normal;
+    }
+   
+    .principal li{
+        display:inline-block;
+        line-height: 2.5;
+        margin: 0 89px;
+    }
+    
+    button{
+        background:#41f341;
+        border: 1px solid transparent;
+        padding: 2px 20px;
+        border-radius: 3px;
+    }
