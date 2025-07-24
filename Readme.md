@@ -3,9 +3,10 @@
 Este repositório contém o desenvolvimento de um site estático construído como parte do curso **“Front-End: Minha Primeira Página Web”** da [PrograMaria](https://www.programaria.org/). O projeto teve como objetivo aplicar os fundamentos de HTML, CSS e JavaScript na criação de uma estrutura web semântica, responsiva e acessível, apresentando a trajetória histórica de **Ada Lovelace**, referência feminina na história da computação.
 
 ---
+
 ## 🔗 Acesse o projeto online
 
-✅ [Clique no link para visualizar o site](https://esther-nacimento.github.io/SiteAdaLovelace/)
+✅ [Clique aqui para visualizar o site publicado](https://esther-nacimento.github.io/SiteAdaLovelace/)
 
 ---
 
