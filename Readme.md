@@ -35,7 +35,7 @@ A arquitetura da página foi organizada da seguinte forma:
 |------------|-----------|
 | HTML5 | Marcação semântica e estrutura do conteúdo |
 | CSS3 | Estilização visual e organização estética da página |
-| JavaScript (Vanilla) | Lógica de validação de formulário com DOM |
+| JavaScript  | Lógica de validação de formulário com DOM |
 
 ---
 
